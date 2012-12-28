@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.requests" name="Requests" version="0.14.2"
-						provider-name="Kenneth Reitz">
+<addon id="script.module.requests" name="Requests" version="1.0.4"
+						provider-name="kennethreitz">
   <requires>
     <import addon="xbmc.python" version="2.0"/>
   </requires>
